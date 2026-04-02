@@ -3,12 +3,12 @@ Advanced protection for RedM servers.
 
 Deadeye Anticheat is a powerful and actively maintained anticheat solution designed specifically for RedM. It detects, prevents, and blocks modern cheating methods to keep your server fair and secure.
 ## 🚀 Features:
-🛡️ Advanced cheat detection
-⚡ Fast and lightweight performance
-🔄 Frequent updates & improvements
-🔐 Secure & reliant protections
-🚫 Anti bypass mechanisms
-📊 Logging, banning & monitoring
+🛡️ Advanced cheat detection  
+⚡ Fast and lightweight performance  
+🔄 Frequent updates & improvements  
+🔐 Secure & reliant protections  
+🚫 Anti bypass mechanisms  
+📊 Logging, banning & monitoring  
 
 ## 🛒 Purchase
 Get Deadeye Anticheat here:  
