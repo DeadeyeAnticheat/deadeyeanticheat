@@ -10,7 +10,7 @@ Deadeye Anticheat is a powerful and actively maintained anticheat solution desig
 🚫 Anti bypass mechanisms
 📊 Logging, banning & monitoring
 
-## 📊 Support & Community
+## 📊 Discord Server & Support
 Join our Discord for support, updates, and announcements:  
 👉 https://discord.gg/DU5eb5vJ4q
 
