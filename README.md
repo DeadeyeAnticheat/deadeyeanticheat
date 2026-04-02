@@ -1,16 +1,25 @@
 ## Hi there 👋
+##🎯 Deadeye Anticheat for RedM
+Advanced protection for RedM servers.
 
-<!--
-**DeadeyeAnticheat/deadeyeanticheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deadeye Anticheat is a powerful and actively maintained anticheat solution designed specifically for RedM. It detects, prevents, and blocks modern cheating methods to keep your server fair and secure.
+# 🚀 Features:
+🛡️ Advanced cheat detection
+⚡ Fast and lightweight performance
+🔄 Frequent updates & improvements
+🔐 Server-side protections
+🚫 Anti bypass mechanisms
+📊 Logging & monitoring
 
-Here are some ideas to get you started:
+# 📊 Support & Community
+Join our Discord for support, updates, and announcements:
+👉 https://discord.gg/DU5eb5vJ4q
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛒 Purchase
+Get Deadeye Anticheat here:
+👉 https://deadeyeac.com
+
+⚠️ Disclaimer
+No anti-cheat can guarantee 100% protection. However, Deadeye Anticheat aims to provide the highest level of security possible through continuous development.
+
+# Stay protected. Stay ahead. 🎯
