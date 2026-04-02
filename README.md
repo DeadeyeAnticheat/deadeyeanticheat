@@ -19,6 +19,6 @@ Get Deadeye Anticheat here:
 👉 https://deadeyeac.com
 
 ## ⚠️ Disclaimer
-No anti-cheat can guarantee 100% protection. However, Deadeye Anticheat aims to provide the highest level of security possible through continuous development.
+No anticheat can guarantee 100% protection. However, Deadeye Anticheat aims to provide the highest level of security possible through continuous development.
 
 ## Stay protected. Stay ahead. 🎯
