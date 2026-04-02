@@ -1,4 +1,3 @@
-## Hi there 👋
 ##🎯 Deadeye Anticheat for RedM
 Advanced protection for RedM servers.
 
