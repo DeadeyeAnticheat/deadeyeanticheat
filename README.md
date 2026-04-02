@@ -11,11 +11,11 @@ Deadeye Anticheat is a powerful and actively maintained anticheat solution desig
 📊 Logging, banning & monitoring
 
 ## 📊 Support & Community
-Join our Discord for support, updates, and announcements:
+Join our Discord for support, updates, and announcements:  
 👉 https://discord.gg/DU5eb5vJ4q
 
 ## 🛒 Purchase
-Get Deadeye Anticheat here:
+Get Deadeye Anticheat here:  
 👉 https://deadeyeac.com
 
 ## ⚠️ Disclaimer
