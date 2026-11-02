@@ -1,26 +1,29 @@
 # 🎯 Deadeye Anticheat for RedM
-Advanced protection for RedM servers.
 
-Deadeye Anticheat is a powerful and actively maintained anticheat solution designed specifically for RedM.  
-It detects, prevents, and blocks modern cheating methods to keep your server fair and secure.  
+> ⚠️ **This project is no longer maintained.**
 
-## 🚀 Features:
-🛡️ Advanced cheat detection  
-⚡ Fast and lightweight performance  
-🔄 Frequent updates & improvements  
-🔐 Secure & reliant protections  
-🚫 Anti bypass mechanisms  
-📊 Logging, banning & monitoring  
+Thank you to everyone who used, supported, and helped improve Deadeye Anticheat over its lifetime. Active development, updates, and support on this account have officially ended.
 
-## 🛒 Purchase
-Get Deadeye Anticheat here:  
-👉 https://deadeyeac.com
+## 🔓 Now Open Source
 
-## 📊 Discord Server & Support
-Join our Discord for support, updates, and announcements:  
-👉 https://discord.gg/DU5eb5vJ4q
+Deadeye Anticheat is now **free and open source**!  
+The full project has moved to my personal GitHub profile, where you can view, use, and contribute to the code:
+
+👉 **[github.com/PharellJay](https://github.com/PharellJay)**
+
+## 📌 What This Means
+
+🚫 No further updates or releases will be published here  
+🛒 The product is no longer sold, so there are no new purchases or licenses  
+📦 The repositories on this account remain available as an archive  
+🤝 Issues, pull requests, and contributions should go to the new open source repository
 
 ## ⚠️ Disclaimer
-No anticheat can guarantee 100% protection. However, Deadeye Anticheat aims to provide the highest level of security possible through continuous development.
 
-## Stay protected. Stay ahead. 🎯
+No anticheat can guarantee 100% protection. As the project is now community-driven, its effectiveness depends on ongoing contributions and on how it's configured on your server.
+
+## 💙 Thank You
+
+To every server owner and community member who trusted Deadeye: thank you for the support.
+
+## Fair play lives on. 🎯
