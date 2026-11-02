@@ -9,7 +9,7 @@ Thank you to everyone who used, supported, and helped improve Deadeye Anticheat 
 Deadeye Anticheat is now **free and open source**!  
 The full project has moved to my personal GitHub profile, where you can view, use, and contribute to the code:
 
-👉 **[github.com/PharellJay/RedMAnticheat]([https://github.com/PharellJay](https://github.com/PharellJay/RedMAnticheat))**
+👉 **[github.com/PharellJay/RedMAnticheat](https://github.com/PharellJay/RedMAnticheat)**
 
 ## 📌 What This Means
 
